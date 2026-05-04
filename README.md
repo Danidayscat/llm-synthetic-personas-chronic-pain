@@ -1,6 +1,6 @@
-# Analysis Code — *[Título del paper]*
+# Analysis Code — *[Evaluating LLM-Generated Synthetic Personas for Chronic Pain Research: Incremental Conditioning Improves Structural Fidelity but Fails Out-of-Sample Calibration]*
 
-[![DOI](https://zenodo.org/badge/DOI/XXXXXXX.svg)](https://doi.org/XXXXXXX)
+[![DOI](https://zenodo.org/badge/1228402164.svg)](https://doi.org/10.5281/zenodo.20017596)
 
 ## Overview
 
@@ -53,10 +53,5 @@ Open the notebook in JupyterLab or VS Code and run blocks sequentially.
 
 Code: [MIT License](LICENSE)
 Data: Not included — see Data Availability section above.
-
-## Citation
-
-If you use this code, please cite:
-> [Full citation — update after paper acceptance]
 
 A Zenodo DOI for this repository is available via the badge at the top of this file.
