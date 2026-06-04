@@ -7,8 +7,7 @@
 This repository contains the analysis code accompanying the manuscript:
 
 > **Evaluating LLM-Generated Synthetic Personas for Chronic Pain Research: Incremental Conditioning Improves Structural Fidelity but Fails Out-of-Sample Calibration**
-> Daniela Díaz-Catalán*, Jacopo Amidei, Andreas Kaltenbrunner, Jose Gregorio Ferreira De Sá, Juan V. Luciano, Rubén Nieto*
-. *Artificial Intelligence in Medicine*, [2026].
+> Daniela Díaz-Catalán*, Jacopo Amidei, Andreas Kaltenbrunner, Jose Gregorio Ferreira De Sá, Juan V. Luciano, Rubén Nieto*. [2026].
 > DOI: [paper DOI once available]
 
 The code implements a comparative analysis of real participant (RP) data and
