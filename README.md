@@ -1,6 +1,6 @@
-# Analysis Code — *[Título del paper]*
+# Analysis Code — *Evaluating LLM-Generated Synthetic Personas for Chronic Pain Research: Incremental Conditioning Improves Structural Fidelity but Fails Out-of-Sample Calibration*
 
-[![DOI](https://zenodo.org/badge/DOI/XXXXXXX.svg)](https://doi.org/XXXXXXX)
+[![DOI](https://zenodo.org/badge/1228402164.svg)](https://doi.org/10.5281/zenodo.20017596)
 
 ## Overview
 
