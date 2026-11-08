@@ -1,4 +1,4 @@
-# Analysis Code — *[Evaluating LLM-Generated Synthetic Personas for Chronic Pain Research: Incremental Conditioning Improves Structural Fidelity but Fails Out-of-Sample Calibration]*
+# Analysis Code — *Can large language models simulate patients with chronic pain? A multilevel evaluation of synthetic personas against real patient data*
 
 [![DOI](https://zenodo.org/badge/1228402164.svg)](https://doi.org/10.5281/zenodo.20017596)
 
@@ -6,7 +6,7 @@
 
 This repository contains the analysis code accompanying the manuscript:
 
-> **Evaluating LLM-Generated Synthetic Personas for Chronic Pain Research: Incremental Conditioning Improves Structural Fidelity but Fails Out-of-Sample Calibration**
+> **Can large language models simulate patients with chronic pain? A multilevel evaluation of synthetic personas against real patient data**
 > Daniela Díaz-Catalán*, Jacopo Amidei, Andreas Kaltenbrunner, Jose Gregorio Ferreira De Sá, Juan V. Luciano, Rubén Nieto*. [2026].
 > DOI: [paper DOI once available]
 
